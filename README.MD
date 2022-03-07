@@ -6,6 +6,7 @@
 
 - Bolo de cenoura
 - Bolo de chocolate
+- Bole de banana
 
 
 
